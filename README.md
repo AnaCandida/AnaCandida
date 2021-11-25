@@ -1,7 +1,4 @@
 ### Hi there 👋
-# Welcome!
-
- 
 
 ## I'm Ana Cândida Quadros!
 
