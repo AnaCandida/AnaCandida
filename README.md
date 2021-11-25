@@ -10,10 +10,9 @@
 
 :books: I’m currently learning about React JS.
 
-[![AnaCandida GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?AnaCandida={AnaCandida})
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCandida)](https://github.com/AnaCandida/github-readme-stats)
 
- 
 
 
 
