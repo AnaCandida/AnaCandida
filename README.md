@@ -11,7 +11,8 @@
 :books: I’m currently learning about React JS.
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCandida)](https://github.com/AnaCandida/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCandida&layout=compact)](https://github.com/AnaCandida/github-readme-stats)
 
 
 
@@ -20,5 +21,4 @@
 
 
 
-## Contact me
 
